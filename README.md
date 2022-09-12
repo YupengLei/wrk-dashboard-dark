@@ -2,7 +2,7 @@
 > [The WRK Group](https://wrkgroup.org/) Dashboard, dark theme
 
 ##  App
-[App](https://de-data-lab.github.io/WRK)
+[App](https://yupenglei.github.io/wrk-dashboard-dark/)
 
 ##  Description  
 Data & Source:        
