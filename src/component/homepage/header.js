@@ -62,7 +62,7 @@ export default class Header extends React.Component {
             <div className="header">
                 <Link to="/" style={{textDecoration: "none"}}>
                     <Logo 
-                        logoURL="/public/image/WRK-logo.webp"
+                        logoURL="https://raw.githubusercontent.com/YupengLei/wrk-dashboard-dark/main/public/image/WRK-logo.webp"
                         logoText="WRK Dashboard"
                         logoBoxClick={this.props.logoBoxClick}
                     />
