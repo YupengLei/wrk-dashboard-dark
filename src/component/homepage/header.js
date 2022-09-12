@@ -60,7 +60,7 @@ export default class Header extends React.Component {
     render() {
         return (
             <div className="header">
-                <Link to="/" style={{textDecoration: "none"}}>
+                <Link to="/wrk-dashboard-dark" style={{textDecoration: "none"}}>
                     <Logo 
                         logoURL="https://raw.githubusercontent.com/YupengLei/wrk-dashboard-dark/main/public/image/WRK-logo.webp"
                         logoText="WRK Dashboard"

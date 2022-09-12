@@ -46,7 +46,7 @@ export default class App extends React.Component {
             
               <Routes>
                 <Route
-                  path="/"
+                  path="/wrk-dashboard-dark/"
                   element={
                     <Stats 
                       homePageData={this.state.homePageData} 

@@ -9,7 +9,7 @@ export const homePageData = [
         id: 0,
         statsTitle: "Housing",
         statsIcon: "fa-solid fa-house-chimney",
-        statsLink: "/housing",
+        statsLink: "/wrk-dashboard-dark/housing",
         element: <Housing />,
         statsContent: [
             {
@@ -42,7 +42,7 @@ export const homePageData = [
         id: 1,
         statsTitle: "Education",
         statsIcon: "fa-solid fa-graduation-cap",
-        statsLink: "/education",
+        statsLink: "/wrk-dashboard-dark/education",
         element: <Education />,
         statsContent: [
             {
@@ -84,7 +84,7 @@ export const homePageData = [
         id: 2,
         statsTitle: "Workforce",
         statsIcon: "fa-solid fa-briefcase",
-        statsLink: "/workforce",
+        statsLink: "/wrk-dashboard-dark/workforce",
         element: <Workforce />,
         statsContent: [
             {
@@ -101,7 +101,7 @@ export const homePageData = [
         id: 3,
         statsTitle: "Safety",
         statsIcon: "fa-solid fa-shield-virus",
-        statsLink: "/safety",
+        statsLink: "/wrk-dashboard-dark/safety",
         element: <Safety />,
         statsContent: [
             {
@@ -125,7 +125,7 @@ export const homePageData = [
         id: 4,
         statsTitle: "Events",
         statsIcon: "fa-solid fa-calendar-days",
-        statsLink: "/events",
+        statsLink: "/wrk-dashboard-dark/events",
         element: <Events />,
         statsContent: [
             {
