@@ -6,7 +6,7 @@ class Logo extends React.Component {
     render() {
         return (
             <div className="logo" onClick={this.props.logoBoxClick} >
-                <img src={this.props.logoURL} className="logoIcon" alt="#" />
+                <img src={this.props.logoURL} className="logoIcon" alt="https://yupenglei.github.io/wrk-dashboard-dark/" />
                 <p className="logoText">{this.props.logoText}</p>
             </div>
         );
@@ -62,7 +62,7 @@ export default class Header extends React.Component {
             <div className="header">
                 <Link to="/" style={{textDecoration: "none"}}>
                     <Logo 
-                        logoURL="/image/WRK-logo.webp"
+                        logoURL="/public/image/WRK-logo.webp"
                         logoText="WRK Dashboard"
                         logoBoxClick={this.props.logoBoxClick}
                     />
