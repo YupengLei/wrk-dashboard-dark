@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wrk-dashboard-dark/static/css/main.921537a2.css",
-    "main.js": "/wrk-dashboard-dark/static/js/main.ee5e9f7f.js",
+    "main.js": "/wrk-dashboard-dark/static/js/main.abd3197b.js",
     "static/media/events_warehouse_calendar.csv": "/wrk-dashboard-dark/static/media/events_warehouse_calendar.03847f0d0cd9b294baa0.csv",
     "static/media/hud_de_combined.csv": "/wrk-dashboard-dark/static/media/hud_de_combined.29effa8a368d01718e2e.csv",
     "static/media/workforce_unemployment_sum.csv": "/wrk-dashboard-dark/static/media/workforce_unemployment_sum.96fd257a6af84d7211e0.csv",
@@ -15,10 +15,10 @@
     "static/media/education_kinder_readiness_WRK.csv": "/wrk-dashboard-dark/static/media/education_kinder_readiness_WRK.e1706ae76ca8289671f6.csv",
     "static/media/safety_rating.csv": "/wrk-dashboard-dark/static/media/safety_rating.725bb2dd18f4d561f8ae.csv",
     "main.921537a2.css.map": "/wrk-dashboard-dark/static/css/main.921537a2.css.map",
-    "main.ee5e9f7f.js.map": "/wrk-dashboard-dark/static/js/main.ee5e9f7f.js.map"
+    "main.abd3197b.js.map": "/wrk-dashboard-dark/static/js/main.abd3197b.js.map"
   },
   "entrypoints": [
     "static/css/main.921537a2.css",
-    "static/js/main.ee5e9f7f.js"
+    "static/js/main.abd3197b.js"
   ]
 }
