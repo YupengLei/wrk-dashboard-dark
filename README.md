@@ -1,5 +1,5 @@
 # WRK Dashboard 
-> The WRK Group Dashboard, dark theme
+> [The WRK Group](https://wrkgroup.org/) Dashboard, dark theme
 
 ##  App
 [App](https://yupenglei.github.io/wrk-dashboard-dark/)
