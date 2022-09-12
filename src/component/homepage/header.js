@@ -6,7 +6,7 @@ class Logo extends React.Component {
     render() {
         return (
             <div className="logo" onClick={this.props.logoBoxClick} >
-                <img src={this.props.logoURL} className="logoIcon" alt="https://yupenglei.github.io/wrk-dashboard-dark/" />
+                <img src={this.props.logoURL} className="logoIcon" alt="WRK" />
                 <p className="logoText">{this.props.logoText}</p>
             </div>
         );
